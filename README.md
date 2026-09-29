@@ -7,6 +7,9 @@ The app lets a user type text, choose a source and target language, and instantl
 ## 🎥 Demo
 [LinkedIn video link here]
 
+## 🌍 Live Demo
+👉 [Try it live here](https://codealpha-languagetranslationtool.streamlit.app)
+
 ## ✨ Features
 - Text input box for entering any text
 - Dropdown menus to select source language (or auto-detect) and target language
@@ -65,4 +68,8 @@ This project was built as part of the **CodeAlpha Artificial Intelligence Intern
 - Task: Language Translation Tool
 
 ## 👤 Author
-[Your Name] — BSc. Information Technology Education
+**Samuel Tetteh**
+BSc. Information Technology Education, Level 300
+University of Skills Training and Entrepreneurial Development (USTED)
+
+🔗 [LinkedIn](www.linkedin.com/in/samuel-tetteh-b5a247356) · [GitHub](https://github.com/Sam-Tetteh21)

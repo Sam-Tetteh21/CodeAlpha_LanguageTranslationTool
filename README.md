@@ -5,7 +5,7 @@ A simple web-based Language Translation Tool built during my **CodeAlpha Artific
 The app lets a user type text, choose a source and target language, and instantly get a translation — powered by Google Translate under the hood.
 
 ## 🎥 Demo
-[LinkedIn video link here]
+[[LinkedIn video link here]](https://lnkd.in/p/dyvTRXFy)
 
 ## 🌍 Live Demo
 👉 [Try it live here](https://codealpha-languagetranslationtool.streamlit.app)
